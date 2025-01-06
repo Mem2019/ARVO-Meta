@@ -1,0 +1,6 @@
+.vscode/
+CppIdentifier/
+clang
+clang++
+out/
+log.txt
